@@ -142,5 +142,3 @@ https://user-images.githubusercontent.com/94070164/236692494-a50edafc-7864-439a-
 
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anson-benny-502961238/)
