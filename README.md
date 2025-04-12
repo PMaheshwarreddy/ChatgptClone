@@ -3,6 +3,9 @@ This clone is made with MERN and uses OpenAI API.
 
 
 
+
+
+
 This project is clone of chatGPT , chatGPT is an AI . It's allows you to have human-like conversations.
 
 ## Features
